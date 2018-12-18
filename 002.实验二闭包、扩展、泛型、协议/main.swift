@@ -3,7 +3,7 @@
 //  002.实验二闭包、扩展、泛型、协议
 //
 //  Created by student on 2018/12/15.
-//  Copyright © 2018年 002.实验二闭包、扩展、泛型、协议. All rights reserved.
+//  Copyright © 2018年 李潘. All rights reserved.
 //
 
 //(1)给定一个Dictionary，Dictionary包含key值name和age，用map函数返回age字符串数组;
